@@ -1,0 +1,12 @@
+Primeira ida:
+
+Ligue o primeiro interruptor e aguarde alguns minutos.
+Depois, desligue o primeiro interruptor e ligue o segundo interruptor.
+Deixe o terceiro interruptor desligado durante todo o processo.
+Segunda ida:
+
+Entre na sala das lâmpadas.
+A lâmpada acesa corresponde ao interruptor que você ligou e desligou primeiro.
+A lâmpada apagada e fria corresponde ao interruptor que você ligou e desligou por último.
+A lâmpada apagada e quente corresponde ao interruptor que você nunca tocou.
+Com esse método, você determina qual interruptor controla cada lâmpada com apenas duas idas até a sala das lâmpadas.
